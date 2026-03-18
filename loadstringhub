@@ -1,0 +1,6 @@
+-- Coin injectorr
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dalgacor1/Dalvshub/refs/heads/main/PrivateV2.lua"))()
+-- Wing unlocker
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dalgacor1/Dalvshub/refs/heads/main/PrivateWingA.lua"))()
+-- Injector + Wing
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dalgacor1/Dalvshub/refs/heads/main/PrivateV4.lua"))()
